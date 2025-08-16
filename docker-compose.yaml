@@ -1,0 +1,9 @@
+name: broken
+
+services:
+  backend:
+    build: backend
+  wait:
+    build: wait
+
+
